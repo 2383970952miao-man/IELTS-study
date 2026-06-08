@@ -1,6 +1,6 @@
 ---
 type: synonym-master
-total: 9
+total: 13
 ---
 
 # Synonym Master
@@ -16,3 +16,7 @@ total: 9
 | adjust the standard | adjust the eligibility criteria | Vocabulary diagnostic | 2026-06-07 |
 | extra bonus | additional financial assistance / an additional grant | Vocabulary diagnostic | 2026-06-07 |
 | implement support to students | provide support to students / award grants to students | Vocabulary diagnostic | 2026-06-07 |
+| exceptional university | leading university / prestigious university | Vocabulary review | 2026-06-08 |
+| fitting situation | eligible students / students who meet the eligibility criteria | Vocabulary review | 2026-06-08 |
+| qualified standard | eligibility criteria | Vocabulary review | 2026-06-08 |
+| release an extra bonus | award an additional grant | Vocabulary review | 2026-06-08 |
